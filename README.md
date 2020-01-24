@@ -7,4 +7,3 @@ Dynamic mode decomposition of random pressure fields over bluff bodies
 
 This work is currently under the review process. Code, models and data will all be released closer to publication.
 
-
